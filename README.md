@@ -1,1 +1,1 @@
-Just a project for odin. NOt sure what to do.
+Just a project for odin. Not sure what to do.
